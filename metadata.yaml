@@ -1,0 +1,37 @@
+_repo: The-Crown-of-Wild-Olivealso-Munera-Pulveris--Pre-Raphaelitism--Aratra-Pentelici--The-Ethics-o__26716
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26716-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+description: ''
+gutenberg_issued: '2008-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PR'
+- !lcsh 'Work'
+- !lcsh 'Drawing -- Study and teaching'
+- !lcsh 'Economics'
+- !lcsh 'Conduct of life'
+- !lcsh 'Architecture'
+- !lcsh 'War'
+title: 'The Crown of Wild Olive
+
+  also Munera Pulveris; Pre-Raphaelitism; Aratra Pentelici; The Ethics of the Dust;
+  Fiction, Fair and Foul; The Elements of Drawing'
+url: http://www.gutenberg.org/ebooks/26716
